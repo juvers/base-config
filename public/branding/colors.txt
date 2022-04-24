@@ -1,0 +1,61 @@
+Colors - Light Palette
+background: #FDF8E0;
+
+background: #DCF7D3;
+
+background: #C1EDE5;
+
+background: #DBE3FD;
+
+background: #E3D2E9;
+
+background: #FEBABA;
+
+background: #FFD7CA;
+
+background: #BAEEFF;
+
+background: #ADFFD9;
+
+background: #F3E4C6;
+
+background: #CCD7E2;
+
+background: #FFEFF9;
+
+background: #D5CEC6;
+
+background: #EBEBEB;
+
+opacity: 0.85;
+
+ 
+
+Colors - Dark Palette
+background: #DCCD80;
+
+background: #75D753;
+
+background: #2AAF97;
+
+background: #6F7DAC;
+
+background: #A77EB6;
+
+background: #E15B5B;
+
+background: #966E62;
+
+background: #3D99B6;
+
+background: #FFD338;
+
+background: #FF9D42;
+
+background: #6FE2FB;
+
+background: #1B394D;
+
+background: #440724;
+
+background: #076363;
